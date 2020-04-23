@@ -1,1 +1,1 @@
-Przykładowa aplikacja web 0.0.2
+Przykładowa aplikacja web 0.0.3
